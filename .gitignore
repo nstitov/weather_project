@@ -2,3 +2,5 @@ venv/
 .env
 __pacache__/
 .vscode/
+*.txt
+*.json
